@@ -22,8 +22,6 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-If you do not have a `requirements.txt` yet, install packages directly based on imports in `main.py`.
-
 ## Run
 
 ```bash
